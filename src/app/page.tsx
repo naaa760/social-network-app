@@ -134,8 +134,8 @@ const DUMMY_POSTS: Post[] = [
   {
     id: "12",
     author: {
-      name: "Chris Morgan",
-      handle: "@cmorgan",
+      name: "Chris Morgani",
+      handle: "@cmorgani",
       avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Chris",
     },
     content:
